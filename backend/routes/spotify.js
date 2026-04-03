@@ -2,7 +2,6 @@ const express = require("express");
 const router = express.Router();
 const { searchSongs } = require("../services/spotifyService");
 
-// GET /api/search?q=song
 router.get("/search", async (req, res) => {
     try {
         const query = req.query.q;
