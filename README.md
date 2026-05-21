@@ -78,7 +78,7 @@ Before you start, make sure you have:
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Step 1: Clone the Repository
 
