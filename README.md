@@ -1,4 +1,4 @@
-# 🎵 Aurora Tunes
+# Aurora Tunes
 
 A modern music streaming web application powered by **Spotify API + Firebase**, featuring search, playlists, user profiles, and a fully interactive audio player.
 
@@ -299,5 +299,3 @@ kill -9 <PID>
 - Ensure both servers are running
 
 ---
-
-**Made with ❤️ by [Your Name]**
