@@ -198,7 +198,7 @@ NODE_ENV=production npm start
 
 ---
 
-## 🔧 Available Scripts
+## Available Scripts
 
 ### Frontend Scripts
 
